@@ -1,0 +1,16 @@
+F:\ws-vs2019\Projetos\Exercicio Fixacao Excecoes - Aula 155\Exercicio Fixacao Excecoes - Aula 155\bin\Debug\net5.0\Exercicio Fixacao Excecoes - Aula 155.exe
+F:\ws-vs2019\Projetos\Exercicio Fixacao Excecoes - Aula 155\Exercicio Fixacao Excecoes - Aula 155\bin\Debug\net5.0\Exercicio Fixacao Excecoes - Aula 155.deps.json
+F:\ws-vs2019\Projetos\Exercicio Fixacao Excecoes - Aula 155\Exercicio Fixacao Excecoes - Aula 155\bin\Debug\net5.0\Exercicio Fixacao Excecoes - Aula 155.runtimeconfig.json
+F:\ws-vs2019\Projetos\Exercicio Fixacao Excecoes - Aula 155\Exercicio Fixacao Excecoes - Aula 155\bin\Debug\net5.0\Exercicio Fixacao Excecoes - Aula 155.runtimeconfig.dev.json
+F:\ws-vs2019\Projetos\Exercicio Fixacao Excecoes - Aula 155\Exercicio Fixacao Excecoes - Aula 155\bin\Debug\net5.0\Exercicio Fixacao Excecoes - Aula 155.dll
+F:\ws-vs2019\Projetos\Exercicio Fixacao Excecoes - Aula 155\Exercicio Fixacao Excecoes - Aula 155\bin\Debug\net5.0\ref\Exercicio Fixacao Excecoes - Aula 155.dll
+F:\ws-vs2019\Projetos\Exercicio Fixacao Excecoes - Aula 155\Exercicio Fixacao Excecoes - Aula 155\bin\Debug\net5.0\Exercicio Fixacao Excecoes - Aula 155.pdb
+F:\ws-vs2019\Projetos\Exercicio Fixacao Excecoes - Aula 155\Exercicio Fixacao Excecoes - Aula 155\obj\Debug\net5.0\Exercicio Fixacao Excecoes - Aula 155.csproj.AssemblyReference.cache
+F:\ws-vs2019\Projetos\Exercicio Fixacao Excecoes - Aula 155\Exercicio Fixacao Excecoes - Aula 155\obj\Debug\net5.0\Exercicio Fixacao Excecoes - Aula 155.GeneratedMSBuildEditorConfig.editorconfig
+F:\ws-vs2019\Projetos\Exercicio Fixacao Excecoes - Aula 155\Exercicio Fixacao Excecoes - Aula 155\obj\Debug\net5.0\Exercicio Fixacao Excecoes - Aula 155.AssemblyInfoInputs.cache
+F:\ws-vs2019\Projetos\Exercicio Fixacao Excecoes - Aula 155\Exercicio Fixacao Excecoes - Aula 155\obj\Debug\net5.0\Exercicio Fixacao Excecoes - Aula 155.AssemblyInfo.cs
+F:\ws-vs2019\Projetos\Exercicio Fixacao Excecoes - Aula 155\Exercicio Fixacao Excecoes - Aula 155\obj\Debug\net5.0\Exercicio Fixacao Excecoes - Aula 155.csproj.CoreCompileInputs.cache
+F:\ws-vs2019\Projetos\Exercicio Fixacao Excecoes - Aula 155\Exercicio Fixacao Excecoes - Aula 155\obj\Debug\net5.0\Exercicio Fixacao Excecoes - Aula 155.dll
+F:\ws-vs2019\Projetos\Exercicio Fixacao Excecoes - Aula 155\Exercicio Fixacao Excecoes - Aula 155\obj\Debug\net5.0\ref\Exercicio Fixacao Excecoes - Aula 155.dll
+F:\ws-vs2019\Projetos\Exercicio Fixacao Excecoes - Aula 155\Exercicio Fixacao Excecoes - Aula 155\obj\Debug\net5.0\Exercicio Fixacao Excecoes - Aula 155.pdb
+F:\ws-vs2019\Projetos\Exercicio Fixacao Excecoes - Aula 155\Exercicio Fixacao Excecoes - Aula 155\obj\Debug\net5.0\Exercicio Fixacao Excecoes - Aula 155.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exercicio Fixacao Excecoes - Aula 155/1.0.0": {
+        "runtime": {
+          "Exercicio Fixacao Excecoes - Aula 155.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio Fixacao Excecoes - Aula 155/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
